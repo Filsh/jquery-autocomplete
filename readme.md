@@ -1,7 +1,7 @@
 #Ajax AutoComplete for jQuery
 
 Ajax Autocomplete for jQuery allows you to easily create 
-autocomplete/autosuggest boxes for text input fields.
+autocomplete/autosuggest boxes for text input fields. 
 
 Has no dependencies other than jQuery.
 
