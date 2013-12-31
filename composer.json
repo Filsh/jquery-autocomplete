@@ -1,0 +1,11 @@
+{
+    "name": "filsh/jquery-autocomplete",
+    "description": "This is a fork of Devbridge https://github.com/devbridge/jQuery-Autocomplete; thanks go to him for getting this thing started!",
+    "keywords": ["jquery", "autocomplete"],
+    "support": {
+        "issues": "https://github.com/devbridge/jQuery-Autocomplete/issues",
+        "wiki": "http://www.devbridge.com/projects/autocomplete/jquery",
+		"source": "https://github.com/devbridge/jQuery-Autocomplete"
+    },
+    "license": "MIT"
+}
